@@ -23,11 +23,13 @@ Business insights for decision-making
 
 Python
 
-Pandas, NumPy
-
-Matplotlib, Seaborn
+Python Library:Pandas
 
 Jupyter Notebook
+
+MySQL
+
+Power Bi
 
 📁 Project Structure
 Customer_Behavior_Analysis/
